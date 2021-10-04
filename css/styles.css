@@ -115,7 +115,8 @@
     margin-left:40px;
     top: -385px;
     position: relative;
-    background-image: url(..img/kit.jpg);
+    background-image: url(../img/kit.jpg);
+    
 
 }
 .text
