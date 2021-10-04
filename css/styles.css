@@ -1,0 +1,199 @@
+*{
+    background-color: lavender;
+}
+.main
+{
+    margin-top: 200px;
+    margin: auto;
+    width: 1150px;
+    height: 1630px;
+    background-color: rgb(219, 236, 228);
+}
+.head
+{
+  width: 1150px;
+  height: 290px;   
+  position: absolute;
+  top: 40px;
+  background-color: grey;  
+}
+.colomn
+{
+   width: 370px;
+   height: 1630px;
+   top:-120px;
+   position: relative;
+   margin-left: 50px;
+   background:rgb(120, 153, 241);
+}
+.head_text
+{
+    color:ivory;
+    font-size: 50px;
+    top:90px;
+    margin-left: 545px;
+    position: relative;
+    background-color:grey; 
+}
+.head_text_2
+{
+    color:rgb(142, 41, 224);
+    font-size: 25px;
+    position: relative;
+    margin-left: 600px;
+    top:100px;
+    background-color:grey; 
+} 
+.About_me
+{
+    width: 630px;
+    height: 40px;
+    margin-left: 470px;
+    top:390px;
+    position: relative;
+    background-color: rgb(49, 47, 47);
+}
+.Education
+{
+    width: 630px;
+    height: 40px;
+    top:610px;
+    margin-left: 475px;
+    position: relative;
+    background-color: rgb(49, 47, 47);
+}
+.Experience
+{
+    width: 630px;
+    height: 40px;
+    top:1150px;
+    margin-left: 475px;
+    position: relative;
+    background-color: rgb(49, 47, 47);
+}
+.info
+{
+    width: 300px;
+    height: 55px;
+    background-color:rgb(49, 47, 47);
+    top: 420px;
+    position: relative;
+    margin-left: 35px;
+}
+.Power_charge
+{
+    width: 300px;
+    height: 55px;
+    background-color:rgb(49, 47, 47);
+    top: 745px;
+    position: relative;
+    margin-left: 35px;
+}
+.Educ
+{
+    width: 300px;
+    height: 55px;
+    background-color:rgb(49, 47, 47);
+    top: 1180px;
+    position: relative;
+    margin-left: 35px;
+}
+.first_circle
+{
+    width: 300px; /* задаете свои размеры */
+    height: 300px;
+    border-radius: 50%; 
+    margin-left:30px;
+    top: -95px;
+    position: relative;
+    background-color:rgb(240, 227, 227)
+}
+.circle {
+    width: 280px; /* задаете свои размеры */
+    height: 280px;
+    border-radius: 50%;
+    margin-left:40px;
+    top: -385px;
+    position: relative;
+    background-image: url(D:/css,html/img/kit.jpg);
+
+}
+.text
+{
+    color:ivory;
+    font-size: 25px;
+    top:5px;
+    margin-left: 30px;
+    position: relative;
+    background-color:rgb(49, 47, 47);
+}
+
+
+.year_text2008
+{
+    color:black;
+    background-color:rgb(219, 236, 228);
+    font-size: 20px;
+    position: relative;
+    top:-1030px;
+    margin-left:475px;
+}
+.style_text
+{
+    color:grey;
+    font-size:25px;
+    background-color:rgb(219, 236, 228);
+    position: relative;
+}
+.junior_high_school
+{
+    color:cornflowerblue;
+    font-size:20px;
+    background-color:rgb(219, 236, 228);
+    position: relative;
+}
+.horizontal
+{
+    height: 5px;
+    width: 250px;
+    border-radius: 5px;
+    background-color:white;
+    position: relative;
+}
+.vertical
+{
+    height: 35px;
+    width: 5px;
+    background-color:white;
+    position: relative
+}
+.white_year
+{
+    color:white;
+    background-color:rgb(120, 153, 241);
+    font-size: 20px;
+    position: relative;  
+}
+.white_text
+{
+    color:white;
+    font-size:25px;
+    background-color:rgb(120, 153, 241);
+    position: relative;
+}
+.white_orcle
+{
+    color:white;
+    font-size:25px;
+    background-color:rgb(120, 153, 241);
+    position: relative;
+}
+.white_circle
+{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: white;
+    position: relative;
+}
+  
